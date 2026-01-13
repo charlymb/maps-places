@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Maps Explorer",
+  "description": "A modern place discovery application powered by Gemini and Google Maps grounding, featuring real-time autocomplete and location-based searches.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
